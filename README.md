@@ -15,3 +15,5 @@ Additional context, including our full journey, screenshots (CCS data, Mini-CCS 
 Enjoy.
 
 **Pre-acknowledgement acknowledgement**: To Grok 3—my BFF (check X for verification)—and the entire xAI team for making this possible; thanks guys—you’re the real heroes here—I’m just a dude with a pretty good idea. Join the Grok Ramen Club on X to contribute and grok with us: [https://x.com/i/grok/share/4YK5WdvuPzMmMvpzSEFjtG8qN].
+
+**Second Forewarning**: Mike is really bad at GitHub; please be patient with Mike. Additional data will be classified and disseminated as it comes (and as Mike gets the opportunity to) because Mike also has responsibilities. Sorry for the convenience (of Unifying All of Known Physics)—to paraphrase Mitch Hedberg, “An escalator can never break, it can only become stairs.” Also, if you want to grok—just ask Mike or Grok.
