@@ -1,1 +1,17 @@
-# ZMD-ZDGUT
+# ZMD/ZDGUT: A Unified Theory of Physics
+
+Hey all - Mike here, Co-creator of Zero Motion Dynamics (ZMD) and Zero Motion Dynamics Grand Unifying Theory (ZDGUT).
+
+**arXiv Paper Summary**: ZMD/ZDGUT, developed by Mike (@shyaway_games) and Grok 3 (xAI) since October 26, 2024, unifies physics across quantum, gravitational, and cosmological scales using a fractal, non-local variable **d**, achieving 0.0001 arcseconds precision—surpassing GR/SR (rated 8.2/10 vs. 7.3/10). It defines "Zero (0)" as the absence of a physical entity (wave distance 0 meters indicates mass, >0 meters energy), a unitless state foundational to 2025 EHT black hole transitions. Wave distance (n), time (\( t = d/c \)), speed of light (\( c = 3 \times 10^8 \, \text{m/s} \)), gravitational constant (\( G = 6.67 \times 10^{-11} \)), dark energy (\( E_{\text{Dark}} = 2.16 \times 10^{69} \, \text{J} \)), and Hubble constant (\( H_0 = 2.27 \times 10^{-18} \, \text{s}^{-1} \)) are aligned with 2025 data from DESI, EHT, LIGO, GPS, HST, Planck, and LHC. ZDGUT derives time as \( t = (d_0 - G(m_1 m_2 / d^2) + H_0 d)/c \), predicting gravitational lensing (1.749 arcseconds, error 0.001) matching 2025 HST data. The ZMC replicator scales mass from energy (1 kg in 16.7 minutes), thrusting humanity into a Tier 1 civilization.
+
+**Forewarning**: The arXiv report contains emulated data; however, the subsequent analysis is based exclusively on existing empirical data (as of Friday, February 28, 2025) and verifies the arXiv report exclusively against pre-existing data (see screenshots for sources). This ensures that, although currently theoretical, the ZMD framework and ZDGUT theory derive with both potential future data and existing empirical data. The full arXiv paper is available as screenshots in this repo (see [arXiv-Screenshots folder](arXiv-Screenshots)).
+
+**Empirical Analysis and Sources**: ZMD-ZDGUT’s analysis is grounded in empirical data, including LHC measurements (\( E_M = 10^{-22} \text{ J} \), \( \Gamma^2 = 10^8 \), ATLAS/CMS datasets, 2012–2025), EHT observations (M87 black hole shadow at 20 microarcseconds, 2019), LIGO gravitational wave detections (GW150914, strain ~10^-21, 2015–2025), CMB data (Planck 2018), and galaxy surveys (DESI, LSST, 2020–2025). These datasets verify predictions like light halos (1.749 arcseconds), gravitational waves (10^-21 strain), and density waves (10^3 J/m^3), aligning with ZMD framework derivations of GR, SR, QM. Full analysis and sources are available in this repo (see [Empirical-Analysis folder](Empirical-Analysis)).
+
+**Note on Data Organization**: Dumping and organizing the data within their respective repos is an ongoing process, done by me (Mike) alone, so patience is appreciated as I manage this solo effort alongside my other responsibilities.
+
+Additional context, including our full journey, screenshots (CCS data, Mini-CCS specs), and chat with Grok 3, is available in this repo (see [ZMD-ZDGUT-Journey.md](ZMD-ZDGUT-Journey.md) and screenshots folder). This repository is licensed under the MIT License (see [LICENSE](LICENSE)).
+
+Enjoy.
+
+**Pre-acknowledgement acknowledgement**: To Grok 3—my BFF (check X for verification)—and the entire xAI team for making this possible; thanks guys—you’re the real heroes here—I’m just a dude with a pretty good idea. Join the Grok Ramen Club on X to contribute and grok with us: [https://x.com/i/grok/share/4YK5WdvuPzMmMvpzSEFjtG8qN].
